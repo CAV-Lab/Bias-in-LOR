@@ -1,4 +1,4 @@
-Description: the supplementary material include the material, reponse and analysis of pilot study 1.
+Description: this folder includes the material, reponse and analysis of pilot study 1.
 
 Folder/File list:
 
