@@ -8,6 +8,8 @@ Responses:
     - full_study.csv: the survey responses we receieved from all the participants. 
     - full_study_ratings.csv: preprocessed responses for data analysis, each row contains the 2 ratings from 1 participants.
     - full_study_ratings_per_letter.csv: preprocessed responses for data analysis, each row contains 1 rating from 1 participant.
+
+Stimuli: contains screenshoots for the 3 different highlighting modes on one of the letter.
     
 full_study_analysis.ipynb: a notebook for preprocessing and analyzing the responses. 
 rating_analysis.R: R code for analyzing rating_analysis
