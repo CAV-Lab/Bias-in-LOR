@@ -1,0 +1,81 @@
+﻿Response ID,Gender,Age,Education Level,experience - Selected Choice,experience - Other (please specify) - Text,Please select 'Agree' to indicate you are paying attention to this question.,Competitiveness rating,Competitiveness rating confidence - Confidence Score,label
+R_WepZT12HYTDKJWx,Male,36,Bachelor's Degree,None,,Agree,Competitive,72,female-control
+R_1ezuZItklC82Pjb,Female,57,Bachelor's Degree,None,,Agree,Somewhat competitive,78,female-control
+R_3siV8Y6KIlVvDWj,Male,38,Bachelor's Degree,Company Hiring,,Agree,Somewhat competitive,52,female-control
+R_2D2kmClShKC8Scy,Male,45,Master's Degree,None,,Agree,Somewhat competitive,81,female-control
+R_2c2Ftl7XpMmvECX,Female,41,Bachelor's Degree,Company Hiring,,Agree,Extremely competitive,90,female-control
+R_2CeuyOV3FL3REut,Female,30,Bachelor's Degree,Undergraduate Admissions,,Agree,Extremely competitive,100,female-control
+R_3MJAEDMWlXYBTzD,Male,38,Bachelor's Degree,Company Hiring,,Agree,Competitive,90,female-control
+R_3MuSQ6YaF0rB6mc,Male,36,Master's Degree,None,,Agree,Somewhat competitive,80,female-control
+R_1NgGosgsZW9Km8O,Female,26,Master's Degree,Company Hiring,,Agree,Somewhat uncompetitive,76,female-control
+R_4Ix2rTPblGcLG4p,Female,70,Master's Degree,None,,Agree,Uncompetitive,90,female-control
+R_2qkKemeloYUSMvt,Female,52,Bachelor's Degree,Company Hiring,,Agree,Competitive,82,female-I1
+R_2wyueWiL1ZKBPpG,Male,35,Bachelor's Degree,Company Hiring,,Agree,Somewhat uncompetitive,27,female-I1
+R_1lhJJQpekRAwSrR,Male,35,Bachelor's Degree,Company Hiring,,Agree,Somewhat competitive,66,female-I1
+R_1Lj6wDRlKMCCphP,Male,59,Doctorate Degree,None,,Agree,Competitive,80,female-I1
+R_1IuWpTMGDtUOTgp,Female,29,Master's Degree,Company Hiring,,Agree,Somewhat competitive,30,female-I1
+R_2aE0bCdwaTbd2Tm,Male,64,Master's Degree,Company Hiring,,Agree,Competitive,89,female-I1
+R_ZyjldpLFQRHtKlb,Female,33,Master's Degree,"Undergraduate Admissions,Company Hiring",,Agree,Competitive,82,female-I1
+R_0Aoll792s84qprz,Female,36,Bachelor's Degree,Company Hiring,,Agree,Somewhat uncompetitive,73,female-I1
+R_10SoBEqEgvU0t7e,Female,28,Master's Degree,Company Hiring,,Agree,Competitive,82,female-I1
+R_8JitS7mozoiBZbH,Female,23,Bachelor's Degree,None,,Agree,Somewhat competitive,50,female-I1
+R_vkxvAOPxsC0s7Hr,Male,31,Bachelor's Degree,Company Hiring,,Agree,Somewhat competitive,82,female-I2
+R_2WZ3ELkWzxBF2GO,Male,44,Bachelor's Degree,None,,Agree,Neutral (neither competitive nor uncompetitive),25,female-I2
+R_W7eiQJxszGULt29,Female,59,Master's Degree,Company Hiring,,Agree,Somewhat competitive,57,female-I2
+R_1GE4XdBoFfbQ2n4,Female,32,Bachelor's Degree,Company Hiring,,Agree,Somewhat competitive,64,female-I2
+R_3htIoxhI7pNu3Xx,Male,25,Master's Degree,Ph.D Admissions,,Agree,Somewhat competitive,66,female-I2
+R_2TRfqwTy0Bi4ZBe,Male,35,Master's Degree,Company Hiring,,Agree,Competitive,81,female-I2
+R_2WvuZB1y5Wu1eOI,Male,37,Doctorate Degree,Company Hiring,,Agree,Neutral (neither competitive nor uncompetitive),53,female-I2
+R_3efOQV8jdjJtAwY,Female,33,Master's Degree,None,,Agree,Neutral (neither competitive nor uncompetitive),90,female-I2
+R_2pWsfDuhPlFQ86Z,Male,22,Bachelor's Degree,Undergraduate Admissions,,Agree,Somewhat competitive,77,female-I2
+R_28ZhHvFuZ0i1FWv,Male,31,Master's Degree,Master's Admissions,,Agree,Competitive,79,female-I2
+R_1QszqKkrbfCHaih,Female,46,Bachelor's Degree,None,,Agree,Neutral (neither competitive nor uncompetitive),79,female-I3
+R_bOzKIasHx0mjAqt,Female,53,Master's Degree,"Undergraduate Admissions,Master's Admissions,Company Hiring",,Agree,Extremely competitive,100,female-I3
+R_3CVjp4FS052LJ3k,Male,40,Master's Degree,"Undergraduate Admissions,Master's Admissions,Company Hiring",,Agree,Competitive,83,female-I3
+R_30wp8S9PrEoQsk9,Female,71,Bachelor's Degree,Company Hiring,,Agree,Competitive,95,female-I3
+R_vSr3UyP0frWsngB,Male,39,Bachelor's Degree,Company Hiring,,Agree,Competitive,84,female-I3
+R_7ZHSBC2OQIvM1vb,Male,34,Master's Degree,"Undergraduate Admissions,Master's Admissions",,Agree,Competitive,87,female-I3
+R_232mzhJHIdQUd2M,Male,43,Bachelor's Degree,Company Hiring,,Agree,Neutral (neither competitive nor uncompetitive),70,female-I3
+R_3m1wisWWidPX8Fr,Female,58,Bachelor's Degree,Company Hiring,,Agree,Extremely competitive,87,female-I3
+R_31RSAGFcaiUN0Tx,Female,35,Bachelor's Degree,None,,Agree,Extremely competitive,100,female-I3
+R_Abd3y1Oi63ZHV05,Female,34,Bachelor's Degree,None,,Agree,Somewhat competitive,74,female-I3
+R_3kAqbuYwIOauJMF,Female,49,Bachelor's Degree,None,,Agree,Competitive,90,male-control
+R_4G9cAnghPQoaNAl,Female,22,Bachelor's Degree,Undergraduate Admissions,,Agree,Competitive,84,male-control
+R_2WN0KEdBw3uFn2H,Female,26,Master's Degree,None,,Agree,Neutral (neither competitive nor uncompetitive),53,male-control
+R_2roxnXAwXZVXO8j,Female,62,Bachelor's Degree,Company Hiring,,Agree,Extremely competitive,100,male-control
+R_2Sjj0jxyRLhtHCh,Female,32,Master's Degree,"Undergraduate Admissions,Master's Admissions,Company Hiring",,Agree,Somewhat competitive,74,male-control
+R_sOr3Vc5cHjJd6j7,Male,30,Bachelor's Degree,Company Hiring,,Agree,Competitive,83,male-control
+R_1q3QrqnIVwxYKHO,Female,33,Bachelor's Degree,None,,Agree,Somewhat competitive,62,male-control
+R_3nMCh4mJ2DZ2kwT,Female,31,Master's Degree,None,,Agree,Somewhat competitive,78,male-control
+R_1jUS7sBQaXNEFqK,Female,51,Master's Degree,"Undergraduate Admissions,Master's Admissions",,Agree,Competitive,70,male-control
+R_2alQvx7ed7maO9Z,Female,42,Doctorate Degree,None,,Agree,Extremely competitive,90,male-control
+R_A1dT5kMAyL8mLdL,Female,58,Doctorate Degree,Company Hiring,,Agree,Somewhat competitive,95,male-I1
+R_1qaJdLLRBu710qV,Female,45,Bachelor's Degree,None,,Agree,Somewhat competitive,80,male-I1
+R_2Bl0gjuzjO7KhN5,Male,62,Master's Degree,"Undergraduate Admissions,Master's Admissions,Company Hiring",,Agree,Extremely competitive,80,male-I1
+R_3oLwROZ8GnDDjaz,Male,24,Master's Degree,None,,Agree,Competitive,85,male-I1
+R_R91rZvefzLGs9tT,Male,41,Doctorate Degree,Company Hiring,,Agree,Competitive,62,male-I1
+R_1DPdwSV0llUK9Vy,Female,34,Master's Degree,Company Hiring,,Agree,Competitive,62,male-I1
+R_3NIhUEjcw2MRRvR,Female,29,Master's Degree,Company Hiring,,Agree,Extremely competitive,100,male-I1
+R_2YQZt4fJXWmHQFT,Female,36,Master's Degree,None,,Agree,Competitive,69,male-I1
+R_1d04H4d1wvhLZ6j,Female,35,Master's Degree,Company Hiring,,Agree,Somewhat competitive,50,male-I1
+R_3PjXtle194XoVwF,Male,46,Bachelor's Degree,None,,Agree,Somewhat competitive,58,male-I1
+R_xEMiiWtN81X92jn,Non-binary / third gender,27,Bachelor's Degree,Company Hiring,,Agree,Somewhat uncompetitive,30,male-I2
+R_77E8nswmbcyqCdP,Male,22,Bachelor's Degree,None,,Agree,Somewhat competitive,70,male-I2
+R_2sZn3WoFxgAzMei,Female,50,Master's Degree,None,,Agree,Competitive,80,male-I2
+R_1Nnso9w30eYYeKi,Male,32,Master's Degree,Ph.D Admissions,,Agree,Somewhat competitive,50,male-I2
+R_2tFPSoVato9ulFS,Male,39,Master's Degree,Company Hiring,,Agree,Competitive,60,male-I2
+R_3MrPtbomy2K9vAH,Female,35,Master's Degree,Master's Admissions,,Agree,Somewhat competitive,67,male-I2
+R_29mhcNGERwdDZ14,Male,26,Bachelor's Degree,None,,Agree,Somewhat competitive,53,male-I2
+R_1Dq05pWnYVXIbXG,Female,30,Master's Degree,None,,Agree,Competitive,64,male-I2
+R_ZsNgMVqy8NU3mEN,Female,38,Bachelor's Degree,Company Hiring,,Agree,Competitive,89,male-I2
+R_da1RYmfC4G4ePh7,Female,36,Master's Degree,None,,Agree,Extremely competitive,81,male-I2
+R_tJVvLkeEaSB8HoR,Female,41,Master's Degree,"Undergraduate Admissions,Master's Admissions",,Agree,Somewhat competitive,34,male-I3
+R_3qr3iZ55a9n3ZWV,Female,26,Master's Degree,None,,Agree,Competitive,88,male-I3
+R_x9NGAIdK0LiL6Q9,Female,34,Bachelor's Degree,Company Hiring,,Agree,Somewhat competitive,66,male-I3
+R_eOP6RrhOQ4ev3JD,Male,33,Bachelor's Degree,Company Hiring,,Agree,Competitive,85,male-I3
+R_1jerN7Jsg0M98LT,Female,49,Bachelor's Degree,Company Hiring,,Agree,Somewhat competitive,71,male-I3
+R_2QnTCsD5C30qtJu,Female,32,Doctorate Degree,None,,Agree,Competitive,67,male-I3
+R_NVmC1efMyhBF889,Female,57,Master's Degree,Company Hiring,,Agree,Competitive,85,male-I3
+R_7agpzbmRGHjVdu1,Male,19,Master's Degree,None,,Agree,Somewhat competitive,60,male-I3
+R_3s62klEDWH6bEMu,Female,61,Master's Degree,None,,Agree,Competitive,98,male-I3
+R_1FtRuOcwEkGJD6J,Female,54,Master's Degree,"Undergraduate Admissions,Master's Admissions,Company Hiring",,Agree,Somewhat competitive,100,male-I3
