@@ -21,3 +21,14 @@ The `pilot_studies` directory contains detailed descriptions about the three pil
 
 ## Full Study
 The `full_study` directory contains the recommendation letters used, survey responses, and data analysis scripts for the full study.
+
+## Citation
+
+```
+@article{da2023,
+  title={Visual Salience to Mitigate Gender Bias in Recommendation Letters},
+  author={Da, Yanan and Chen, Mengyu and Altschuler, Ben and Bu, Yutong and Wall, Emily},
+  journal={Workshop on Visualization for Social Good (VIS4Good, at VIS'23)},
+  year={2023}
+}
+```
