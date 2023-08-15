@@ -25,7 +25,7 @@ The `full_study` directory contains the recommendation letters used, survey resp
 ## Citation
 
 ```
-@article{da2023,
+@article{da2023lor,
   title={Visual Salience to Mitigate Gender Bias in Recommendation Letters},
   author={Da, Yanan and Chen, Mengyu and Altschuler, Ben and Bu, Yutong and Wall, Emily},
   journal={Workshop on Visualization for Social Good (VIS4Good, at VIS'23)},
