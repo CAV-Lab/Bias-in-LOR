@@ -1,5 +1,5 @@
 # Visual Salience to Mitigate Gender Bias in LORs
-This repository hosts the supplemental materials for our [VIS 2023 Visualization for Social Good Workshop](https://vis4good.github.io/) paper "Visual Salience to Mitigate Gender Bias in Recommendation Letters".
+This repository hosts the supplemental materials for our [VIS 2023 Visualization for Social Good Workshop](https://vis4good.github.io/) paper "[Visual Salience to Mitigate Gender Bias in Recommendation Letters](https://cav-lab.github.io/media/papers/LORBiasVIS4GOOD23.pdf)".
 
 ## Abstract
   Letters of recommendation (LOR) are an important and widely used evaluation criterion for hiring, university admissions, and many other domains. Prior work has identified that gender stereotypes can bias how recommenders describe female applicants compared to male applicants in the context of faculty positions, undergraduate research internships, residency candidates, etc. For example, female applicants are more likely to be described as communal (e.g., affectionate, warm) while male applicants are more likely to be described as agentic (e.g., confident, intellectual). 
